@@ -23,3 +23,9 @@ Lista de tarefas:
 
 Link
 [link para o guia de cursos do IFC](https://ingresso.ifc.edu.br/guia-de-cursos/)
+
+Tabela:
+Número|Nome|Nota
+--|--|--
+1|Tiago|7
+2|Clara|10
