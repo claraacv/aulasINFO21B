@@ -29,3 +29,17 @@ Número|Nome|Nota
 --|--|--
 1|Tiago|7
 2|Clara|10
+
+Código:
+Exemplo de como colocar um comando no meio do texto: `System.out.println();`
+
+Códigos maiores:
+
+```
+System.out.println();
+if(a==2){
+  System.out.println();
+}
+```
+
+Agradecimento @claraacv
